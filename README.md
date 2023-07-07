@@ -1,2 +1,2 @@
-# Hazleton3.github.recipebox
+# recipebox
 Recipe card templates for print
